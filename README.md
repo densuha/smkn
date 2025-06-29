@@ -16,7 +16,7 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 1. Halaman Beranda/Homepage
 2. Banner
 3. Halaman Informasi
-4. Halaman profile (Profil Guru dan staff, Prestasi & penghargaan, Ekstrakurikuler, Fasilitas sarana dan prasarana)
+4. Halaman profile (Profil Guru dan staff, Ekstrakurikuler)
 5. Halaman Tautan
 6. Halaman kontak
 7. Floating whatsapp button
