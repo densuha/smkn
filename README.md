@@ -27,14 +27,12 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 2. Halaman update profile dan ganti password
 3. Halaman Dashboard
 4. Halaman kelola informasi dan kategorinya
-5. Halaman kelola Galeri dan Banner dan kategorinya
-6. Halaman kelola staff and guru dan kategorinya
-7. Halaman kelola upload/download file dan kategorinya
-8. Halaman kelola Ekstrakurikuler dan kategorinya
-9. Halaman kelola Master Data (Link website)
-10. Halaman kelola menu front end
-11. Halaman kelola pengguna sistem
-12. Halaman kelola konfigurasi (website, logo dan icon, about us, banner, email, informasi detail sekolah)
+5. Halaman kelola staff and guru dan kategorinya
+6. Halaman kelola Ekstrakurikuler dan kategorinya
+7. Halaman kelola Master Data (Link website)
+8. Halaman kelola menu front end
+9. Halaman kelola pengguna sistem
+10. Halaman kelola konfigurasi (website, logo dan icon, about us, banner, email, informasi detail sekolah)
 
 Catatan : Beberapa fitur masih dalam tahap pengembangan, dan mungkin belum bekerja dengan baik.
 
