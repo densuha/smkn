@@ -1,0 +1,98 @@
+# WEBSITE SMKN 1 BUAHDUA
+
+Website ini dibangun menggunakan CodeIgniter 4 sebagai framework utama. Aplikasi ini bertujuan untuk mengelola media informasi sekolah, termasuk profil sekolah, informasi sekolah, serta informasi ektrakurikuler.
+
+Website ini dikembangkan dengan beberapa spesifikasi:
+
+1. Dikembangan dengan Codeigniter 4. Pastikan Server Requirements dari CI4 .
+2. Template Admin menggunakan AdminLTE 3.2.0. Bisa diakses di https://adminlte.io/
+3. Template front end menggunakan Sandbox - Modern & Multipurpose Bootstrap 5 Template 3.4.0 dari https://sandbox.elemisthemes.com/.
+4. Notifikasi menggunakan Sweetalert
+
+# Fitur-fitur Website meliputi:
+
+## HALAMAN FRONT END:
+
+1. Halaman Beranda/Homepage
+2. Banner
+3. Halaman Informasi
+4. Halaman profile (Profil Guru dan staff, Prestasi & penghargaan, Ekstrakurikuler, Fasilitas sarana dan prasarana)
+5. Halaman galeri gambar
+6. Halaman galeri video
+7. Halaman file download
+8. Halaman Tautan
+9. Halaman kontak
+10. Floating whatsapp button
+
+## HALAMAN BACK END:
+
+1. Login dan logout
+2. Halaman update profile dan ganti password
+3. Halaman Dashboard
+4. Halaman kelola informasi dan kategorinya
+5. Halaman kelola Galeri dan Banner dan kategorinya
+6. Halaman kelola staff and guru dan kategorinya
+7. Halaman kelola Peestasi dan penghargaan dan kategorinya
+8. Halaman kelola Event dan Agenda dan kategorinya
+9. Halaman kelola upload/download file dan kategorinya
+10. Halaman kelola video youtube
+11. Halaman kelola Karya dan kategorinya
+12. Halaman kelola Fasilitas dan kategorinya
+13. Halaman kelola Ekstrakurikuler dan kategorinya
+14. Halaman kelola Mitra dan kategorinya
+15. Halaman kelola Master Data (Link website)
+16. Halaman kelola menu front end
+17. Halaman kelola pengguna sistem
+18. Halaman kelola konfigurasi (website, logo dan icon, about us, banner, email, informasi detail sekolah)
+19. Dan fitur lainnya
+
+Catatan : Beberapa fitur masih dalam tahap pengembangan, dan mungkin belum bekerja dengan baik.
+
+# CodeIgniter 4 Framework
+
+## What is CodeIgniter?
+
+CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
+More information can be found at the [official site](https://codeigniter.com).
+
+This repository holds the distributable version of the framework.
+It has been built from the
+[development repository](https://github.com/codeigniter4/CodeIgniter4).
+
+More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+
+The user guide corresponding to the latest version of the framework can be found
+[here](https://codeigniter4.github.io/userguide/).
+
+## Repository Management
+
+We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
+We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
+FEATURE REQUESTS.
+
+This repository is a "distribution" one, built by our release preparation script.
+Problems with it can be raised on our forum, or as issues in the main repository.
+
+## Contributing
+
+We welcome contributions from the community.
+
+Please read the [_Contributing to CodeIgniter_](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
+
+## Server Requirements
+
+PHP version 7.4 or higher is required, with the following extensions installed:
+
+- [intl](http://php.net/manual/en/intl.requirements.php)
+- [mbstring](http://php.net/manual/en/mbstring.installation.php)
+
+> **Warning**
+> The end of life date for PHP 7.4 was November 28, 2022. If you are
+> still using PHP 7.4, you should upgrade immediately. The end of life date
+> for PHP 8.0 will be November 26, 2023.
+
+Additionally, make sure that the following extensions are enabled in your PHP:
+
+- json (enabled by default - don't turn it off)
+- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
+- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library

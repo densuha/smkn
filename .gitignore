@@ -1,0 +1,27 @@
+# System / Log files
+*.DS_Store
+*.log
+# *.env
+*.env
+*.htaccess
+
+# Archives
+*.zip
+*.txt
+*.config
+composer.lock
+composer.json
+# Config file
+# app/Config/
+app/Config/Database.php
+app/Config/honeypot.php
+app/Config/Paths.php
+app/Config/Routes.php
+app/Config/App.php
+writable/
+writable/debugbar/
+writable/logs
+assets/upload/
+
+# Ignore the vendor directory
+/vendor/
