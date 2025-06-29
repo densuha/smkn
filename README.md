@@ -17,12 +17,9 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 2. Banner
 3. Halaman Informasi
 4. Halaman profile (Profil Guru dan staff, Prestasi & penghargaan, Ekstrakurikuler, Fasilitas sarana dan prasarana)
-5. Halaman galeri gambar
-6. Halaman galeri video
-7. Halaman file download
-8. Halaman Tautan
-9. Halaman kontak
-10. Floating whatsapp button
+5. Halaman Tautan
+6. Halaman kontak
+7. Floating whatsapp button
 
 ## HALAMAN BACK END:
 
@@ -32,19 +29,12 @@ Website ini dikembangkan dengan beberapa spesifikasi:
 4. Halaman kelola informasi dan kategorinya
 5. Halaman kelola Galeri dan Banner dan kategorinya
 6. Halaman kelola staff and guru dan kategorinya
-7. Halaman kelola Peestasi dan penghargaan dan kategorinya
-8. Halaman kelola Event dan Agenda dan kategorinya
-9. Halaman kelola upload/download file dan kategorinya
-10. Halaman kelola video youtube
-11. Halaman kelola Karya dan kategorinya
-12. Halaman kelola Fasilitas dan kategorinya
-13. Halaman kelola Ekstrakurikuler dan kategorinya
-14. Halaman kelola Mitra dan kategorinya
-15. Halaman kelola Master Data (Link website)
-16. Halaman kelola menu front end
-17. Halaman kelola pengguna sistem
-18. Halaman kelola konfigurasi (website, logo dan icon, about us, banner, email, informasi detail sekolah)
-19. Dan fitur lainnya
+7. Halaman kelola upload/download file dan kategorinya
+8. Halaman kelola Ekstrakurikuler dan kategorinya
+9. Halaman kelola Master Data (Link website)
+10. Halaman kelola menu front end
+11. Halaman kelola pengguna sistem
+12. Halaman kelola konfigurasi (website, logo dan icon, about us, banner, email, informasi detail sekolah)
 
 Catatan : Beberapa fitur masih dalam tahap pengembangan, dan mungkin belum bekerja dengan baik.
 
